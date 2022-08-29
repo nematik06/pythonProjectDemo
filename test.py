@@ -1,2 +1,2 @@
-test code
-my test codefdf
+from math import *
+
